@@ -68,7 +68,7 @@ Proyek ini menggunakan bahasa pemrograman Python dengan bantuan beberapa library
 
 ## 📊 Visualisasi Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Screenshot%202025-05-08%20182808.png)
 
 > *Gambar di atas menunjukkan confusion matrix untuk masing-masing model, yang semuanya menunjukkan klasifikasi sempurna tanpa kesalahan.*
 
